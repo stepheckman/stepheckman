@@ -1,4 +1,6 @@
-## Researcher and Data Scientist
+# Stephanie Eckman
+
+### Researcher and Data Scientist
 
 
 I have a Ph.D. in Statistics & Methodology
