@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/stephanie-eckman-090224aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[your-youtube-URL](https://www.youtube.com/channel/UC7bSRB3ufs9mkQrKDByLglg)">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+
 <!--
 **stepheckman/stepheckman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
