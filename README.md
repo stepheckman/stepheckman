@@ -1,6 +1,8 @@
 ## Researcher and Data Scientist
 
+### :woman_technologist: About Me :
 I have a Ph.D. in Statistics & Methodology. I can help you collect high quality data and better understand the quality of the data you already have.
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/stephanie-eckman-090224aa/">
@@ -11,6 +13,7 @@ I have a Ph.D. in Statistics & Methodology. I can help you collect high quality 
   </a>
 </div>
 
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-plain.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
