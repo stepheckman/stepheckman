@@ -1,18 +1,10 @@
 ## Researcher and Data Scientist
 
-### :woman_technologist: About Me :
-I have a Ph.D. in Statistics & Methodology. 
-I can help you collect high quality data and better understand the quality of the data you already have.
 
-For more info about me, see my [website](https://www.stepheckman.com), my [LinkedIn](https://www.linkedin.com/in/stephanie-eckman-090224aa/) page, or recent talks on [YouTube](https://www.youtube.com/channel/UC7bSRB3ufs9mkQrKDByLglg)
-<!--
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="[your-youtube-URL](https://www.youtube.com/channel/UC7bSRB3ufs9mkQrKDByLglg)">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-</div>
--->
+I have a Ph.D. in Statistics & Methodology
+I can help you collect high quality data and better understand the quality of the data you already have
+
+For more info about me, see my [website](https://www.stepheckman.com) or my [LinkedIn](https://www.linkedin.com/in/stephanie-eckman-090224aa/) page
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
