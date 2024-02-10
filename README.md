@@ -1,8 +1,11 @@
 ## Researcher and Data Scientist
 
 ### :woman_technologist: About Me :
-I have a Ph.D. in Statistics & Methodology. I can help you collect high quality data and better understand the quality of the data you already have.
+I have a Ph.D. in Statistics & Methodology. 
+I can help you collect high quality data and better understand the quality of the data you already have.
 
+You can learn more about me at my website: 
+  <a href=(www.stepheckman.com)["https://www.linkedin.com/in/stephanie-eckman-090224aa/"]>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/stephanie-eckman-090224aa/">
