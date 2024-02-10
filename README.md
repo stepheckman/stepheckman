@@ -1,6 +1,6 @@
-### Hi there 👋
+## Researcher and Data Scientist
 
-
+I have a Ph.D. in Statistics & Methodology. I can help you collect high quality data and better understand the quality of the data you already have.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/stephanie-eckman-090224aa/">
