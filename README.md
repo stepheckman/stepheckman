@@ -4,8 +4,7 @@
 I have a Ph.D. in Statistics & Methodology. 
 I can help you collect high quality data and better understand the quality of the data you already have.
 
-You can learn more about me at my website: 
-  <a href="https://www.stepheckman.com" www.stepheckman.com>
+You can learn more about me at my website: [www.stepheckman.com](https://www.stepheckman.com)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/stephanie-eckman-090224aa/">
